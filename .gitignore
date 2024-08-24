@@ -1,0 +1,36 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+venv1/
+
+# Django Stuff
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+db.sqlite3
+/media/
+/static/
+
+# Django Migrations
+*/migrations/*
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Git
+*.orig
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
